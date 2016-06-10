@@ -1,0 +1,7 @@
+name: tic_tac_toe
+description: A new flutter project.
+dependencies:
+  flutter:
+    path: ../../flutter/packages/flutter
+  firebase:
+    git: git://github.com/flutter/flutterfire.git
